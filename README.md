@@ -8,30 +8,11 @@
 
 </div>
 
-```
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  DESIGNATION   : Maxim Pankin  //  MaksimkinsPrime                  │
-  │  AGE           : 19                                                  │
-  │  LOCATION      : Moscow, Russian Federation                          │
-  │  EDUCATION     : VMK MGU — Computational Mathematics & Cybernetics  │
-  │                  Budget // Referential English group                 │
-  │                  Qualification: Technical Translator (pending)       │
-  │  PREVIOUS ED   : Lyceum 1533 "LIT" — Engineering class, Programming │
-  │  LANGUAGES     : Russian [NATIVE] · English [ADVANCED/TECHNICAL]    │
-  │  ROLE          : ML Engineer · Fullstack Developer · Team Lead       │
-  │  STATUS        : ACTIVE — Student & Engineer                        │
-  └──────────────────────────────────────────────────────────────────────┘
+---
 
-  > BIOGRAPHICAL NOTE:
-  > ──────────────────────────────────────────────────────────────────────
-  > AT 19 — PUBLISHED ML RESEARCH. BUILT AND DEPLOYED PRODUCTION SYSTEMS.
-  > LED TEAMS AT INTERNATIONAL COMPETITIONS. WROTE ANTI-FRAUD AI.
-  > CLASSIFIED HANDWRITTEN SYMBOLS WITH 98.5% ACCURACY.
-  > AUTOMATED RECRUITMENT FOR A BANK. BUILT FULL-STACK APPS FROM SCRATCH.
-  >
-  > THE MACHINE GOD DOES NOT WAIT FOR GRADUATION.
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/dossier.svg" width="800" alt="Operative Dossier"/>
+</div>
 
 ---
 
@@ -66,36 +47,9 @@
 
 ---
 
-```
-  > COMBAT RECORD — CONFIRMED OPERATIONS LOG:
-  > ──────────────────────────────────────────────────────────────────────
-
-  [PRIORITY-ALPHA] AI CHALLENGE 2023 — INTERNATIONAL FINALIST
-  Organizer: Sber + AI Alliance  //  Direction: Agriculture
-  Role: TEAM LEAD (6 operators)  //  Solutions in Top-10: x2
-  Mission: ML-powered image classification systems
-
-  [PRIORITY-ALPHA] SBER + MIPT HACKATHON — III DEGREE PRIZE
-  Organizer: Sberbank + MIPT, Dept. of Advanced Computing
-  Role: LEAD DEVELOPER + TEAM LEAD (3 operators)
-  Mission: Anti-fraud AI system analyzing phone conversations
-
-  [PRIORITY-BETA]  PROD OLYMPIAD — FINALIST (2nd qualifying stage)
-  Organizer: HSE + Central University + Tinkoff
-  Specialization: Backend development
-  Outcome: T-Bank PM interview → 75% GRANT at Central University
-
-  [PRIORITY-BETA]  "ENGINEERS OF THE FUTURE" — CONFERENCE FINALIST
-  Organizer: Moscow Dept. of Education + MEI // April 2024
-  Presentation: CNN handwritten character classifier — 98.5% accuracy
-
-  [PRIORITY-BETA]  FONECODE — FINALIST
-  Industrial Programming Competition
-
-  [PRIORITY-GAMMA] MOSCOW SCHOOL SPORTS PROGRAMMING LEAGUE — PRIZE
-  Result: 2nd place, team ranking
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/combat.svg" width="800" alt="Combat Record"/>
+</div>
 
 ---
 
