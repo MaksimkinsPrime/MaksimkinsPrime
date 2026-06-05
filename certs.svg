@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="720" viewBox="0 0 800 720">
   <defs>
     <style>
-      @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.5} }
-      .border { animation: pulse 5s ease-in-out infinite; }
+      @keyframes pulse       { 0%,100%{opacity:1} 50%{opacity:.5} }
+      @keyframes scan        { 0%{transform:translateY(-4px)} 100%{transform:translateY(724px)} }
+      @keyframes verifyPulse { 0%,62%,100%{opacity:.7} 73%{opacity:1} 76%{opacity:.32} 81%{opacity:1} }
+      .border   { animation: pulse       5s   ease-in-out infinite; }
+      .scanline { animation: scan        4.5s linear      infinite; }
+      .verified { animation: verifyPulse 4.2s ease-in-out infinite; }
     </style>
     <pattern id="sl" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
       <rect width="800" height="2" fill="#000" opacity=".22"/>
@@ -24,13 +28,13 @@
   <!-- [CERT-001] SkillFactory -->
   <text x="30" y="83"  font-size="14" font-family="'Courier New',monospace" fill="#00FF41" font-weight="bold">[CERT-001]  SKILLFACTORY — Deep Learning &amp; Neural Networks</text>
   <text x="30" y="95"  font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
-  <text x="30" y="113" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">            Issued: 27.02.2023  //  ID: 189912-LIII-463  //  Status: VERIFIED ✓</text>
+  <text x="30" y="113" font-size="13" font-family="'Courier New',monospace" fill="#00FF41" class="verified">            Issued: 27.02.2023  //  ID: 189912-LIII-463  //  Status: VERIFIED ✓</text>
   <text x="30" y="130" font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
 
   <!-- [CERT-002] BSS Recommendation -->
   <text x="30" y="150" font-size="14" font-family="'Courier New',monospace" fill="#00FF41" font-weight="bold">[CERT-002]  BANK SOFT SYSTEMS — Letter of Recommendation</text>
   <text x="30" y="162" font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
-  <text x="30" y="180" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">            Signed by: CTO Dmitry Svalov  //  31.08.2023  //  Status: VERIFIED ✓</text>
+  <text x="30" y="180" font-size="13" font-family="'Courier New',monospace" fill="#00FF41" class="verified">            Signed by: CTO Dmitry Svalov  //  31.08.2023  //  Status: VERIFIED ✓</text>
   <text x="30" y="196" font-size="13" font-family="'Courier New',monospace" fill="#00FF41" opacity=".6">            "Exceptional abilities in AI, ML and software development."</text>
   <text x="30" y="212" font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
 
@@ -67,10 +71,12 @@
   <text x="30" y="572" font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
   <text x="30" y="590" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">            Institution: Moscow State University, VMK Faculty  //  Group 211</text>
   <text x="30" y="606" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">            Scope: N-gram → Neural Networks → LLMs → Autonomous Agents → MAS</text>
-  <text x="30" y="622" font-size="13" font-family="'Courier New',monospace" fill="#00FF41" opacity=".65">            Status: PENDING PUBLICATION — MANUSCRIPT COMPLETE ✓</text>
+  <text x="30" y="622" font-size="13" font-family="'Courier New',monospace" fill="#00FF41" opacity=".65" class="verified">            Status: PENDING PUBLICATION — MANUSCRIPT COMPLETE ✓</text>
 
   <!-- Footer -->
   <text x="400" y="704" font-size="9" text-anchor="middle" font-family="'Courier New',monospace" fill="#00FF41" opacity=".32">ALL SCROLLS VERIFIED — OMNISSIAH ACKNOWLEDGES THIS KNOWLEDGE</text>
 
+  <g class="scanline"><rect x="0" y="0" width="800" height="3" fill="#00FF41" opacity=".07"/></g>
+  <text x="763" y="22" font-size="10" text-anchor="end" font-family="'Courier New',monospace" fill="#00FF41" class="verified">◈ REGISTRY:SYNC</text>
   <rect width="800" height="720" fill="url(#sl)"/>
 </svg>
