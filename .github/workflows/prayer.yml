@@ -1,0 +1,36 @@
+name: Process Prayer
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  pray:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests
+
+      - name: Process prayer
+        run: python scripts/process_prayer.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+
+      - name: Commit prayer count + stats
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add prayers.txt live_stats.svg
+          git diff --staged --quiet || git commit -m "auto: prayer #$(cat prayers.txt) received [skip ci]"
+          git push
