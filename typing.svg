@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="65" viewBox="0 0 800 65">
+  <defs>
+    <style>
+      @keyframes pulse  { 0%,100%{opacity:1} 50%{opacity:.5} }
+      @keyframes scan   { 0%{transform:translateY(-4px)} 100%{transform:translateY(69px)} }
+      @keyframes blink  { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      @keyframes carousel {
+        0%,100% { opacity:0; }
+        4%      { opacity:1; }
+        21%     { opacity:1; }
+        25%     { opacity:0; }
+      }
+      .border  { animation: pulse    5s   ease-in-out infinite; }
+      .scanline{ animation: scan     4.5s linear      infinite; }
+      .cursor  { animation: blink    1s   step-end    infinite; }
+      .l1 { animation: carousel 20s  0s  infinite; }
+      .l2 { animation: carousel 20s  4s  infinite; }
+      .l3 { animation: carousel 20s  8s  infinite; }
+      .l4 { animation: carousel 20s 12s  infinite; }
+      .l5 { animation: carousel 20s 16s  infinite; }
+    </style>
+    <pattern id="sl" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
+      <rect width="800" height="2" fill="#000" opacity=".22"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="65" fill="#000000"/>
+  <rect class="border" x="2" y="2" width="796" height="61" fill="none" stroke="#00FF41" stroke-width="1.5"/>
+  <rect class="border" x="6" y="6" width="788" height="53" fill="none" stroke="#00FF41" stroke-width=".4" opacity=".35"/>
+  <text class="border" x="13" y="22" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+  <text class="border" x="774" y="22" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+
+  <!-- Cycling lines -->
+  <text class="l1" x="34" y="39" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">&gt; COGITATOR MkVII INITIALIZING...</text>
+  <text class="l2" x="34" y="39" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">&gt; OMNISSIAH BLESSING: CONFIRMED</text>
+  <text class="l3" x="34" y="39" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">&gt; ORDAINED ENGINSEER — INTERFACE READY</text>
+  <text class="l4" x="34" y="39" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">&gt; CLEARANCE: VERMILLION — GRANTED</text>
+  <text class="l5" x="34" y="39" font-size="13" font-family="'Courier New',monospace" fill="#00FF41">&gt; UNIT PRIME: ONLINE</text>
+
+  <!-- Blinking cursor -->
+  <text class="cursor" x="34" y="52" font-size="9" font-family="'Courier New',monospace" fill="#00FF41" opacity=".45">────────────────────────────────────────────────────────────────────────────────</text>
+
+  <g class="scanline"><rect x="0" y="0" width="800" height="3" fill="#00FF41" opacity=".07"/></g>
+  <rect width="800" height="65" fill="url(#sl)"/>
+</svg>
