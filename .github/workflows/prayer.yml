@@ -33,4 +33,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add prayers.txt live_stats.svg
           git diff --staged --quiet || git commit -m "auto: prayer #$(cat prayers.txt) received [skip ci]"
+          git pull --rebase origin main
           git push
