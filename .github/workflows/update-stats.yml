@@ -1,0 +1,38 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'live_stats.svg'
+      - 'prayers.txt'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests
+
+      - name: Generate live_stats.svg
+        run: python scripts/update_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add live_stats.svg
+          git diff --staged --quiet || git commit -m "auto: binaric manifest sync [skip ci]"
+          git push
