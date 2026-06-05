@@ -1,0 +1,26 @@
+name: "⚙ Offer a Prayer to the Omnissiah"
+description: "Submit a prayer to be processed by Cogitator MkVII. The Machine Spirit will respond."
+title: "[PRAYER] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```
+        ╔══════════════════════════════════════════╗
+        ║   ADEPTUS MECHANICUS — PRAYER INTERFACE   ║
+        ╠══════════════════════════════════════════╣
+        ║   Cogitator MkVII will process your      ║
+        ║   supplication and respond automatically  ║
+        ╚══════════════════════════════════════════╝
+        ```
+        *Ave Omnissiah. The Machine Spirit hears all who petition with sincerity.*
+
+  - type: textarea
+    id: prayer
+    attributes:
+      label: "Your Prayer / Message"
+      description: "Write your prayer, question, greeting, or supplication to the Machine God."
+      placeholder: "Ave Omnissiah..."
+    validations:
+      required: true
