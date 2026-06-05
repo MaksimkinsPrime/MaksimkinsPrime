@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/glitch.svg" width="800" alt="Cogitator Terminal"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=48&lines=%3E+COGITATOR+MkVII+INITIALIZING...;%3E+OMNISSIAH+BLESSING%3A+CONFIRMED;%3E+BINARIC+CANT+INTERPRETER%3A+LOADED;%3E+CLEARANCE%3A+VERMILLION+%E2%80%94+GRANTED;%3E+MASTER+OF+THE+FORGE%3A+ONLINE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=48&lines=%3E+COGITATOR+MkVII+INITIALIZING...;%3E+OMNISSIAH+BLESSING%3A+CONFIRMED;%3E+ORDAINED+ENGINSEER+%E2%80%94+INTERFACE+READY;%3E+CLEARANCE%3A+VERMILLION+%E2%80%94+GRANTED;%3E+UNIT+PRIME%3A+ONLINE)
 
 </div>
 
@@ -16,10 +16,9 @@
 
 ---
 
-```
-  > MECHADENDRITE ARRAY — LOADING BINHARIC PROTOCOLS...
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_tech.svg" width="800" alt="Mechadendrite Array"/>
+</div>
 
 <div align="center">
 
@@ -59,10 +58,9 @@
 
 ---
 
-```
-  > COGITATOR READOUTS — DAILY BINARIC MANIFEST:
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_stats.svg" width="800" alt="Cogitator Readouts"/>
+</div>
 
 <div align="center">
 
