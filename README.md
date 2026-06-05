@@ -10,5 +10,6 @@
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/combat.svg" width="800" alt="Combat Record"/>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_stats.svg" width="800" alt="Classified Archives"/>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/certs.svg" width="800" alt="Certification Registry"/>
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/live_stats.svg" width="800" alt="Live Stats"/>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/shutdown.svg" width="800" alt="Shutdown Sequence"/>
 </div>
