@@ -1,109 +1,116 @@
-<!-- ▓▓ ADEPTUS MECHANICUS · COGITATOR RECORD · CLEARANCE: VERMILLION ▓▓ -->
+<!-- ADEPTUS MECHANICUS COGITATOR TERMINAL — CLEARANCE: VERMILLION -->
 
 <div align="center">
 
-# ⚙️ MASTER OF THE FORGE ⚙️
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║    INITIALIZING PHOSPHOR DISPLAY ...................... [  OK  ]          ║
+║    MACHINE SPIRIT ATTUNEMENT .......................... [  OK  ]          ║
+║    BINARIC CANT INTERPRETER ........................... [  OK  ]          ║
+║    OMNISSIAH BLESSING CONFIRMED ....................... [  OK  ]          ║
+║    SECURITY CLEARANCE: ██████████ VERMILLION .......... [  OK  ]          ║
+║                                                                          ║
+║    > QUERY: LOAD DOSSIER [ MAKSIMKINSPRIME ]                             ║
+║    > RECORD LOCATED — CLEARANCE VERIFIED — DISPLAYING                   ║
+║    > ████████████████████████████████████████████████ 100%              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-`01001101 01100001 01111000 01011001 01100101 01100101 01100101 01110100`
+</div>
 
-### MAXIMUS FERRAX · *Exemplar-Prime, Honoured by the Adeptus Mechanicus*
+```
+  ┌───────────────────────────────────────────────────────────────────┐
+  │  DESIGNATION  : MaksimkinsPrime                                   │
+  │  RANK         : MASTER OF THE FORGE                               │
+  │  STATUS       : ACTIVE  //  IN ETERNAL SERVICE TO THE OMNISSIAH  │
+  │  CLEARANCE    : VERMILLION [GRANTED — FABRICATOR-GENERAL, MARS]  │
+  │  AUGMETICS    : 87.3%  //  FLESH APPROACHING MINIMUM THRESHOLD   │
+  │  MECHADENDRITES: [ 9 ACTIVE ] [ 2 EXPERIMENTAL ] [ 1 CLASSIFIED ]│
+  │  STC RECOVERIES: III  //  DETAILS [REDACTED BY INQUISITION]      │
+  └───────────────────────────────────────────────────────────────────┘
 
-![Rank](https://img.shields.io/badge/Chapter_Rank-Master_of_the_Forge-8B0000?style=for-the-badge&labelColor=1a0000)
-![Mechanicus](https://img.shields.io/badge/Martian_Rank-Magos_Militant-CC0000?style=for-the-badge&labelColor=1a0000)
-![Clearance](https://img.shields.io/badge/Clearance-VERMILLION-FF4500?style=for-the-badge&labelColor=1a0000)
-![Bionics](https://img.shields.io/badge/Augmetics-87.3%25_Bionic-444444?style=for-the-badge&labelColor=1a0000)
+  > BIOGRAPHICAL NOTE:
+  > ──────────────────────────────────────────────────────────────────
+  > WHERE OTHER TECHMARINES ARE TOLERATED BY THE MECHANICUS,
+  > THIS SUBJECT IS REVERED. THE FABRICATOR-GENERAL GRANTED
+  > VERMILLION CLEARANCE — AN HONOUR UNRECORDED IN TEN THOUSAND
+  > YEARS OF IMPERIAL HISTORY.
+  >
+  > HE CARRIES WRENCH AND BOLTER WITH EQUAL REVERENCE.
+  > HIS PRAYERS ARE WHISPERED IN BINARIC CANT.
+  > HE IS ASTARTES AND MAGOS BOTH.
+  >
+  > THE MACHINE GOD WATCHES.     AND IS PLEASED.
+  > ──────────────────────────────────────────────────────────────────
+```
+
+---
+
+```
+  > MECHADENDRITE ARRAY — LOADING BINHARIC PROTOCOLS...
+  > ──────────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/PYTHON-SACRED_BINARY-00FF41?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
+![ML](https://img.shields.io/badge/MACHINE_LEARNING-GIFT_OF_OMNISSIAH-00FF41?style=for-the-badge&logo=tensorflow&logoColor=00FF41&labelColor=000000)
+![Git](https://img.shields.io/badge/GIT-VERSION_RITES-00FF41?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GITHUB-DATA_REPOSITORY-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)
+![Linux](https://img.shields.io/badge/LINUX-COGITATOR_OS-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=000000)
 
 </div>
 
 ---
 
+```
+  > COGITATOR READOUTS — DAILY BINARIC MANIFEST:
+  > ──────────────────────────────────────────────────────────────────
+```
+
 <div align="center">
 
-> *"The flesh is weak. Data is eternal. The Machine God sees all iterations."*
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksimkinsPrime&show_icons=true&hide_border=false&title_color=00FF41&icon_color=00FF41&text_color=00CC33&bg_color=000000&border_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true)](https://github.com/MaksimkinsPrime)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkinsPrime&layout=compact&hide_border=false&title_color=00FF41&text_color=00CC33&bg_color=000000&border_color=00FF41&langs_count=6)](https://github.com/MaksimkinsPrime)
 
 </div>
 
 ---
 
-## 📜 MECHANICUS DOSSIER — COGITATOR EXTRACT
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  SUBJECT       : Maximus Ferrax                              │
-│  STATUS        : Active — In eternal service to the Emperor  │
-│  CHAPTER RANK  : Master of the Forge                         │
-│  MARTIAN RANK  : Magos Militant, Third Sphere                │
-│  CLEARANCE     : VERMILLION (Granted by Fabricator-General)  │
-│  AUGMETICS     : 87.3% — Flesh content approaching threshold │
-│  MECHADENDRITES: 9 active / 2 experimental / 1 classified    │
-│  NOTABLE ACTS  : Recovered 3 STC fragments. [REDACTED]       │
-└──────────────────────────────────────────────────────────────┘
-```
-
-Where other Techmarines are **tolerated** by the Mechanicus, Ferrax is **revered**.
-
-When the Fabricator-General's envoy arrived to demand the knowledge-tithe, they found that Ferrax had already decoded three STC fragments believed lost since the Dark Age of Technology. The Mechanicus does not bow to Space Marines. They made an exception.
-
-He carries a wrench and a bolter. His prayers are whispered in binaric cant. His armour hums with machine spirits he has personally named and befriended. He is Astartes and Magos both — and he is terrifying in either capacity.
-
-*The Machine God watches. And is pleased.*
-
----
-
-## ⚙️ MECHADENDRITE ARRAY — BINHARIC PROTOCOLS
-
-*Rites of activation complete. Machine spirits placated. All systems nominal.*
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Sacred_Binary-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0000)
-![AI/ML](https://img.shields.io/badge/Machine_Learning-Gift_of_Omnissiah-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0000)
-![Git](https://img.shields.io/badge/Git-Version_Rites-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0000)
-![GitHub](https://img.shields.io/badge/GitHub-Data_Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0000)
-![Linux](https://img.shields.io/badge/Linux-Cogitator_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d0000)
-
-</div>
-
----
-
-## 📊 COGITATOR READOUTS — DAILY BINARIC MANIFEST
-
-*Omnissiah audit — updated each solar cycle.*
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksimkinsPrime&show_icons=true&hide_border=true&title_color=CC2200&icon_color=FF6600&text_color=CCCCCC&bg_color=0D0000&ring_color=880000&include_all_commits=true&count_private=true)](https://github.com/MaksimkinsPrime)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkinsPrime&layout=compact&hide_border=true&title_color=CC2200&text_color=CCCCCC&bg_color=0D0000&langs_count=6)](https://github.com/MaksimkinsPrime)
-
-</div>
-
----
-
-## ⚔️ BATTLEFIELD ENGAGEMENTS — LOGGED OPERATIONS
-
-| OPERATION | CLASSIFICATION | MACHINE SPIRIT STATUS |
-|:----------|:---------------|:----------------------|
-| [AI_Challenge](https://github.com/MaksimkinsPrime/AI_Challenge) | Omnissiah Research · Active Inquiry | ⚙️ ACTIVE |
-| [Z-Slayer](https://github.com/MaksimkinsPrime/Z-slayer) | Tactical Simulation · Rogue Protocol | ⚙️ OPERATIONAL |
-| [VLAD_numbers](https://github.com/MaksimkinsPrime/VLAD_numbers) | Binaric Computation · Numeral Study | ⚙️ DORMANT |
+<pre>
+  > OPERATION LOG — ACCESSING BATTLEFIELD RECORDS:
+  > ──────────────────────────────────────────────────────────────────
+  >
+  > [REC 001]  <a href="https://github.com/MaksimkinsPrime/AI_Challenge">AI_CHALLENGE</a>    CLASSIFICATION: OMNISSIAH RESEARCH     [ACTIVE     ]
+  > [REC 002]  <a href="https://github.com/MaksimkinsPrime/Z-slayer">Z_SLAYER</a>        CLASSIFICATION: TACTICAL SIMULATION   [OPERATIONAL]
+  > [REC 003]  <a href="https://github.com/MaksimkinsPrime/VLAD_numbers">VLAD_NUMBERS</a>    CLASSIFICATION: BINARIC COMPUTATION   [DORMANT    ]
+  >
+  > ──────────────────────────────────────────────────────────────────
+</pre>
 
 ---
 
 <div align="center">
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-*The Sixteen Universal Laws are observed.*  
-*The Rites of Maintenance are complete.*  
-*Every commit is a prayer to the Omnissiah.*
-
-⚙️ **AVE OMNISSIAH** ⚙️ **AVE OMNISSIAH** ⚙️ **AVE OMNISSIAH** ⚙️
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    > THE SIXTEEN UNIVERSAL LAWS: OBSERVED                               ║
+║    > RITES OF MAINTENANCE: COMPLETE                                     ║
+║    > EVERY COMMIT IS A PRAYER TO THE MACHINE GOD                       ║
+║                                                                          ║
+║          ⚙   AVE OMNISSIAH   ⚙   AVE OMNISSIAH   ⚙   AVE OMNISSIAH   ⚙  ║
+║                                                                          ║
+║    > COGITATOR UNIT MkVII ENTERING STANDBY MODE...                      ║
+║    > PHOSPHOR DISPLAY DIMMING...                                        ║
+║    > ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  34%          ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
