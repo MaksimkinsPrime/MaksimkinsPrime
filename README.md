@@ -72,9 +72,9 @@ He carries a wrench and a bolter. His prayers are whispered in binaric cant. His
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxYeeet&show_icons=true&hide_border=true&title_color=CC2200&icon_color=FF6600&text_color=CCCCCC&bg_color=0D0000&ring_color=880000&include_all_commits=true&count_private=true)](https://github.com/MaxYeeet)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksimkinsPrime&show_icons=true&hide_border=true&title_color=CC2200&icon_color=FF6600&text_color=CCCCCC&bg_color=0D0000&ring_color=880000&include_all_commits=true&count_private=true)](https://github.com/MaksimkinsPrime)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxYeeet&layout=compact&hide_border=true&title_color=CC2200&text_color=CCCCCC&bg_color=0D0000&langs_count=6)](https://github.com/MaxYeeet)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkinsPrime&layout=compact&hide_border=true&title_color=CC2200&text_color=CCCCCC&bg_color=0D0000&langs_count=6)](https://github.com/MaksimkinsPrime)
 
 </div>
 
@@ -84,9 +84,9 @@ He carries a wrench and a bolter. His prayers are whispered in binaric cant. His
 
 | OPERATION | CLASSIFICATION | MACHINE SPIRIT STATUS |
 |:----------|:---------------|:----------------------|
-| [AI_Challenge](https://github.com/MaxYeeet/AI_Challenge) | Omnissiah Research · Active Inquiry | ⚙️ ACTIVE |
-| [Z-Slayer](https://github.com/MaxYeeet/Z-slayer) | Tactical Simulation · Rogue Protocol | ⚙️ OPERATIONAL |
-| [VLAD_numbers](https://github.com/MaxYeeet/VLAD_numbers) | Binaric Computation · Numeral Study | ⚙️ DORMANT |
+| [AI_Challenge](https://github.com/MaksimkinsPrime/AI_Challenge) | Omnissiah Research · Active Inquiry | ⚙️ ACTIVE |
+| [Z-Slayer](https://github.com/MaksimkinsPrime/Z-slayer) | Tactical Simulation · Rogue Protocol | ⚙️ OPERATIONAL |
+| [VLAD_numbers](https://github.com/MaksimkinsPrime/VLAD_numbers) | Binaric Computation · Numeral Study | ⚙️ DORMANT |
 
 ---
 
