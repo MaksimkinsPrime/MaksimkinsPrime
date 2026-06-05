@@ -8,13 +8,9 @@
 
 </div>
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/dossier.svg" width="800" alt="Operative Dossier"/>
 </div>
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_tech.svg" width="800" alt="Mechadendrite Array"/>
@@ -38,25 +34,17 @@
 
 </div>
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/experience.svg" width="800" alt="Field Operations Log"/>
 </div>
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/combat.svg" width="800" alt="Combat Record"/>
 </div>
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/certs.svg" width="800" alt="Certification Registry"/>
 </div>
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_stats.svg" width="800" alt="Cogitator Readouts"/>
@@ -69,8 +57,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkinsPrime&layout=compact&hide_border=false&title_color=00FF41&text_color=00CC33&bg_color=000000&border_color=00FF41&langs_count=6)](https://github.com/MaksimkinsPrime)
 
 </div>
-
----
 
 <pre>
   > OPERATION LOG — ACCESSING BATTLEFIELD RECORDS:
