@@ -67,17 +67,17 @@
     <!-- Chromatic aberration: red ghost -->
     <text x="403" y="53" font-size="13" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#FF2200" opacity="0.3">
-      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓
+      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M2.026 ▓
     </text>
     <!-- Chromatic aberration: blue ghost -->
     <text x="397" y="53" font-size="13" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#001EFF" opacity="0.2">
-      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓
+      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M2.026 ▓
     </text>
     <!-- Main title -->
     <text x="400" y="53" font-size="13" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#00FF41">
-      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓
+      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M2.026 ▓
     </text>
 
     <!-- Divider -->
@@ -99,7 +99,7 @@
     <!-- Info -->
     <text x="400" y="126" font-size="11" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#00FF41" opacity="0.72">
-      CLEARANCE: VERMILLION  ·  AUGMETICS: 87.3%  ·  MECHADENDRITES: 9 ACTIVE
+      CLEARANCE: VERMILLION  ·  ORDAINED ENGINSEER  ·  UNIT PRIME  ·  MECHADENDRITES: 8 ACTIVE
     </text>
 
     <!-- Binary -->
@@ -123,7 +123,7 @@
     <!-- Status line -->
     <text x="400" y="215" font-size="9" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#00FF41" opacity="0.38">
-      MACHINE SPIRIT: ONLINE  ·  ALL SYSTEMS NOMINAL  ·  OMNISSIAH VULT  ·  UPTIME: 10,000 YRS
+      MACHINE SPIRIT: ONLINE  ·  ALL SYSTEMS NOMINAL  ·  OMNISSIAH VULT
     </text>
   </g>
 
@@ -135,7 +135,7 @@
     </text>
     <text x="400" y="53" font-size="13" text-anchor="middle"
           font-family="'Courier New',Courier,monospace" fill="#00FFFF" opacity="0.55">
-      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓
+      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M2.026 ▓
     </text>
   </g>
 
@@ -155,7 +155,4 @@
     <rect x="0" y="0" width="800" height="3" fill="#00FF41" opacity="0.07"/>
   </g>
 
-  <!-- Blinking cursor -->
-  <text x="18" y="220" font-size="12" font-family="'Courier New',Courier,monospace"
-        fill="#00FF41" class="cursor">█</text>
 </svg>
