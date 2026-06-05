@@ -60,27 +60,9 @@
 
 ---
 
-```
-  > FIELD OPERATIONS LOG — ACCESSING EMPLOYMENT RECORDS:
-  > ──────────────────────────────────────────────────────────────────────
-
-  [M41.2023] INTERNSHIP — BANK SOFT SYSTEMS (BSS)
-  ──────────────────────────────────────────────────
-  > Built neural network ensemble for L1 tech support ticket routing
-  > Developed GenAI methodology for source code generation
-  > Created universal automated data collection & systematization system
-  > Compiled ML-based IT service catalog function registry
-  > OUTCOME: Offer received from CTO Dmitry Svalov — accepted
-
-  [M41.2025] ML ENGINEER — BANK SOFT SYSTEMS (BSS)
-  ──────────────────────────────────────────────────
-  > Automated recruitment pipeline — full system from zero
-  > Integrated HeadHunter + Huntflow via official API
-  > Candidate scoring & ranking system using ML
-  > PostgreSQL database architecture for vacancies & candidates
-  > Built full UI: vacancy management, candidate search, ranked lists
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/experience.svg" width="800" alt="Field Operations Log"/>
+</div>
 
 ---
 
@@ -117,19 +99,9 @@
 
 ---
 
-```
-  > CERTIFICATION REGISTRY — VERIFIED SCROLLS OF KNOWLEDGE:
-  > ──────────────────────────────────────────────────────────────────────
-
-  [CERT-001] SKILLFACTORY — Deep Learning & Neural Networks
-             Issued: 27.02.2023  //  ID: 189912-LIII-463
-             Status: VERIFIED ✓
-
-  [CERT-002] BANK SOFT SYSTEMS — Letter of Recommendation
-             Signed by: CTO Dmitry Svalov  //  31.08.2023
-             Status: VERIFIED ✓
-  > ──────────────────────────────────────────────────────────────────────
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/certs.svg" width="800" alt="Certification Registry"/>
+</div>
 
 ---
 
@@ -166,35 +138,6 @@
 
 ---
 
-```
-  > SERVO-SKULL PATROL — LIVE ACTIVITY FEED:
-  > ──────────────────────────────────────────────────────────────────────
-```
-
 <div align="center">
-
-![Snake](https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/dist/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    > THE SIXTEEN UNIVERSAL LAWS: OBSERVED                               ║
-║    > RITES OF MAINTENANCE: COMPLETE                                     ║
-║    > EVERY COMMIT IS A PRAYER TO THE MACHINE GOD                       ║
-║                                                                          ║
-║          ⚙   AVE OMNISSIAH   ⚙   AVE OMNISSIAH   ⚙   AVE OMNISSIAH   ⚙  ║
-║                                                                          ║
-║    > COGITATOR UNIT MkVII ENTERING STANDBY MODE...                      ║
-║    > PHOSPHOR DISPLAY DIMMING...                                        ║
-║    > ████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  34%          ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/shutdown.svg" width="800" alt="Shutdown Sequence"/>
 </div>
