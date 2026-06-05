@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="440" viewBox="0 0 800 440">
   <defs>
     <style>
-      @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.5} }
-      .border { animation: pulse 5s ease-in-out infinite; }
+      @keyframes pulse       { 0%,100%{opacity:1} 50%{opacity:.5} }
+      @keyframes scan        { 0%{transform:translateY(-4px)} 100%{transform:translateY(444px)} }
+      @keyframes statusBlink { 0%,100%{opacity:1} 40%,60%{opacity:.18} }
+      .border   { animation: pulse       5s   ease-in-out infinite; }
+      .scanline { animation: scan        4.5s linear      infinite; }
+      .status   { animation: statusBlink 2.4s ease-in-out infinite; }
     </style>
     <pattern id="sl" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
       <rect width="800" height="2" fill="#000" opacity=".22"/>
@@ -45,5 +49,7 @@
   <text x="30" y="400" font-size="14" font-family="'Courier New',monospace" fill="#00FF41" font-weight="bold">&gt; THE MACHINE GOD DOES NOT WAIT FOR GRADUATION.</text>
   <text x="30" y="418" font-size="10" font-family="'Courier New',monospace" fill="#00FF41" opacity=".3">────────────────────────────────────────────────────────────────────────────────</text>
 
+  <g class="scanline"><rect x="0" y="0" width="800" height="3" fill="#00FF41" opacity=".07"/></g>
+  <text class="status" x="763" y="22" font-size="10" text-anchor="end" font-family="'Courier New',monospace" fill="#00FF41">◉ SYS:ONLINE</text>
   <rect width="800" height="440" fill="url(#sl)"/>
 </svg>
