@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="370" viewBox="0 0 800 370">
+  <defs>
+    <style>
+      @keyframes blink  { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      @keyframes pulse  { 0%,100%{opacity:1} 50%{opacity:.5} }
+      .cursor { animation: blink 1s step-end infinite; }
+      .border { animation: pulse 5s ease-in-out infinite; }
+    </style>
+    <pattern id="sl" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
+      <rect width="800" height="2" fill="#000" opacity=".22"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="370" fill="#000000"/>
+  <rect class="border" x="2"  y="2"  width="796" height="366" fill="none" stroke="#00FF41" stroke-width="1.8"/>
+  <rect class="border" x="7"  y="7"  width="786" height="356" fill="none" stroke="#00FF41" stroke-width=".4" opacity=".4"/>
+  <text class="border" x="13"  y="22"  font-size="12" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+  <text class="border" x="774" y="22"  font-size="12" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+  <text class="border" x="13"  y="364" font-size="12" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+  <text class="border" x="774" y="364" font-size="12" font-family="'Courier New',monospace" fill="#00FF41">⚙</text>
+
+  <!-- Header -->
+  <text x="400" y="36" font-size="12" text-anchor="middle" font-family="'Courier New',monospace" fill="#00FF41">▓ FIELD OPERATIONS LOG — EMPLOYMENT RECORD ▓</text>
+  <text x="400" y="50" font-size="10" text-anchor="middle" font-family="'Courier New',monospace" fill="#00FF41" opacity=".38">════════════════════════════════════════════════════════════════════</text>
+
+  <!-- BSS 2023 -->
+  <text x="30" y="73" font-size="12" font-family="'Courier New',monospace" fill="#00FF41" font-weight="bold">[M41.2023]  INTERNSHIP — BANK SOFT SYSTEMS (BSS)</text>
+  <text x="30" y="86" font-size="9"  font-family="'Courier New',monospace" fill="#00FF41" opacity=".35">───────────────────────────────────────────────────────────────────────────────</text>
+  <text x="30" y="103" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Built neural-network ensemble for L1 tech support ticket auto-classification</text>
+  <text x="30" y="119" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Developed GenAI methodology for source code generation (internal guidelines)</text>
+  <text x="30" y="135" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Created universal software for automated data collection &amp; systematization</text>
+  <text x="30" y="151" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Compiled ML-based IT service function registry for ITSM service catalog</text>
+  <text x="30" y="170" font-size="11" font-family="'Courier New',monospace" fill="#00FF41" opacity=".65">  ↳ OUTCOME: Offer received from CTO Dmitry Svalov — accepted.</text>
+
+  <!-- BSS 2025 -->
+  <text x="30" y="200" font-size="12" font-family="'Courier New',monospace" fill="#00FF41" font-weight="bold">[M41.2025]  ML ENGINEER — BANK SOFT SYSTEMS (BSS)</text>
+  <text x="30" y="213" font-size="9"  font-family="'Courier New',monospace" fill="#00FF41" opacity=".35">───────────────────────────────────────────────────────────────────────────────</text>
+  <text x="30" y="230" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Automated full recruitment pipeline — from vacancy to ranked candidate list</text>
+  <text x="30" y="246" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Integrated HeadHunter + Huntflow via official REST API</text>
+  <text x="30" y="262" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; ML-powered candidate scoring, ranking and vacancy-fit analysis</text>
+  <text x="30" y="278" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; PostgreSQL database: vacancies, candidates, applications, analysis history</text>
+  <text x="30" y="294" font-size="11" font-family="'Courier New',monospace" fill="#00FF41">&gt; Full-stack UI: vacancy editor, candidate search, ranked lists, profile viewer</text>
+
+  <!-- Footer -->
+  <text x="400" y="348" font-size="9" text-anchor="middle" font-family="'Courier New',monospace" fill="#00FF41" opacity=".32">EMPLOYMENT RECORD VERIFIED — MACHINE SPIRIT APPROVES THIS SERVANT</text>
+
+  <rect width="800" height="370" fill="url(#sl)"/>
+  <text x="18" y="363" font-size="11" font-family="'Courier New',monospace" fill="#00FF41" class="cursor">█</text>
+</svg>
