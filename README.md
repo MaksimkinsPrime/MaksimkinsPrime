@@ -2,33 +2,19 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║      ▓ ADEPTUS MECHANICUS ▓  COGITATOR UNIT MkVII  ▓  BUILD M41.IX ▓   ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║    INITIALIZING PHOSPHOR DISPLAY ...................... [  OK  ]          ║
-║    MACHINE SPIRIT ATTUNEMENT .......................... [  OK  ]          ║
-║    BINARIC CANT INTERPRETER ........................... [  OK  ]          ║
-║    OMNISSIAH BLESSING CONFIRMED ....................... [  OK  ]          ║
-║    SECURITY CLEARANCE: ██████████ VERMILLION .......... [  OK  ]          ║
-║                                                                          ║
-║    > QUERY: LOAD DOSSIER [ MAKSIMKINSPRIME ]                             ║
-║    > RECORD LOCATED — CLEARANCE VERIFIED — DISPLAYING                   ║
-║    > ████████████████████████████████████████████████ 100%              ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/glitch.svg" width="800" alt="Cogitator Terminal"/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=48&lines=%3E+COGITATOR+MkVII+INITIALIZING...;%3E+OMNISSIAH+BLESSING%3A+CONFIRMED;%3E+BINARIC+CANT+INTERPRETER%3A+LOADED;%3E+CLEARANCE%3A+VERMILLION+%E2%80%94+GRANTED;%3E+MASTER+OF+THE+FORGE%3A+ONLINE)
 
 </div>
 
 ```
   ┌───────────────────────────────────────────────────────────────────┐
-  │  DESIGNATION  : MaksimkinsPrime                                   │
-  │  RANK         : MASTER OF THE FORGE                               │
-  │  STATUS       : ACTIVE  //  IN ETERNAL SERVICE TO THE OMNISSIAH  │
-  │  CLEARANCE    : VERMILLION [GRANTED — FABRICATOR-GENERAL, MARS]  │
-  │  AUGMETICS    : 87.3%  //  FLESH APPROACHING MINIMUM THRESHOLD   │
+  │  DESIGNATION   : MaksimkinsPrime                                  │
+  │  RANK          : MASTER OF THE FORGE                              │
+  │  STATUS        : ACTIVE  //  IN ETERNAL SERVICE TO THE OMNISSIAH │
+  │  CLEARANCE     : VERMILLION [GRANTED — FABRICATOR-GENERAL, MARS] │
+  │  AUGMETICS     : 87.3%  //  FLESH APPROACHING MINIMUM THRESHOLD  │
   │  MECHADENDRITES: [ 9 ACTIVE ] [ 2 EXPERIMENTAL ] [ 1 CLASSIFIED ]│
   │  STC RECOVERIES: III  //  DETAILS [REDACTED BY INQUISITION]      │
   └───────────────────────────────────────────────────────────────────┘
@@ -92,6 +78,19 @@
   >
   > ──────────────────────────────────────────────────────────────────
 </pre>
+
+---
+
+```
+  > SERVO-SKULL PATROL — LIVE ACTIVITY FEED:
+  > ──────────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/dist/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
