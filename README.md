@@ -10,5 +10,6 @@
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/combat.svg" width="800" alt="Combat Record"/>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/certs.svg" width="800" alt="Certification Registry"/>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/header_stats.svg" width="800" alt="Cogitator Readouts"/>
+<a href="https://github.com/MaksimkinsPrime"><img src="https://github-readme-stats.vercel.app/api?username=MaksimkinsPrime&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00CC33&bg_color=000000&border_color=00FF41&ring_color=00FF41&include_all_commits=true&count_private=true&card_width=390" alt="GitHub Stats"/></a><a href="https://github.com/MaksimkinsPrime"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimkinsPrime&layout=compact&title_color=00FF41&text_color=00CC33&bg_color=000000&border_color=00FF41&langs_count=6&card_width=390" alt="Top Languages"/></a>
 <img src="https://raw.githubusercontent.com/MaksimkinsPrime/MaksimkinsPrime/main/shutdown.svg" width="800" alt="Shutdown Sequence"/>
 </div>
